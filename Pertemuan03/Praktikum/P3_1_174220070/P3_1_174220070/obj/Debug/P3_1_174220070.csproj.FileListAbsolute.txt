@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Documents\Revan\Pemrograman II_PBO\PemogramanII_PBO\Pertemuan03\Praktikum\P3_1_174220070\P3_1_174220070\bin\Debug\P3_1_174220070.exe.config
+C:\Users\ASUS\OneDrive\Documents\Revan\Pemrograman II_PBO\PemogramanII_PBO\Pertemuan03\Praktikum\P3_1_174220070\P3_1_174220070\bin\Debug\P3_1_174220070.exe
+C:\Users\ASUS\OneDrive\Documents\Revan\Pemrograman II_PBO\PemogramanII_PBO\Pertemuan03\Praktikum\P3_1_174220070\P3_1_174220070\bin\Debug\P3_1_174220070.pdb
+C:\Users\ASUS\OneDrive\Documents\Revan\Pemrograman II_PBO\PemogramanII_PBO\Pertemuan03\Praktikum\P3_1_174220070\P3_1_174220070\obj\Debug\P3_1_174220070.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Documents\Revan\Pemrograman II_PBO\PemogramanII_PBO\Pertemuan03\Praktikum\P3_1_174220070\P3_1_174220070\obj\Debug\P3_1_174220070.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documents\Revan\Pemrograman II_PBO\PemogramanII_PBO\Pertemuan03\Praktikum\P3_1_174220070\P3_1_174220070\obj\Debug\P3_1_174220070.exe
+C:\Users\ASUS\OneDrive\Documents\Revan\Pemrograman II_PBO\PemogramanII_PBO\Pertemuan03\Praktikum\P3_1_174220070\P3_1_174220070\obj\Debug\P3_1_174220070.pdb
