@@ -1,0 +1,36 @@
+Praktikum
+
+Bagian I
+
+14. Jelaskan mengapa pesan kesalahan tersebut muncul! (Jangan lanjut ke tahap selanjutnya
+jika tahap ke-14 ini masih error).
+
+Jawabanya	
+Karena pada Access Modifier yang dipakai adalah protected jadi tidak bisa digunakan
+
+19. Perhatikan hasil yang muncul dilayar, kenapa bisa seperti itu?
+
+Jawabanya 
+Karena didalam Producttest belum ada Variabel
+
+24. Jelaskan mengapa yang muncul dilayar adalah kata tersebut!
+
+Jawabanya 
+Karena Variabel yang masukan adalah "DVD"
+
+Bagian II
+
+8. Jelaskan mengapa title dari buku tersebut tidak muncul! Apakah istilah dalam konsep OOP yang mendefinisikan fenomena seperti ini ?
+
+Jawabanya
+Karena myTitle sudah digunakan pada class Product dan myTitle tersebut belum dijadikan base class atau tidak ada class turunan pada class Book
+
+12. Perhatikan hasil yang muncul dilayar, jelaskan mengapa saat ini judul buku tampil pada
+output!
+
+Jawabanya
+Karena pada class Book sudah ditambahkan base class atau class turunannya yaitu :base(type,title)yang menjadi turunannya
+
+
+
+
