@@ -1,0 +1,7 @@
+C:\Users\Irgi Achmad Fauzi\Downloads\Rv\Revan\PemogramanII_PBO\Pertemuan04\Praktikum\P4_2_714220070\P4_2_714220070\bin\Debug\P4_2_714220070.exe.config
+C:\Users\Irgi Achmad Fauzi\Downloads\Rv\Revan\PemogramanII_PBO\Pertemuan04\Praktikum\P4_2_714220070\P4_2_714220070\bin\Debug\P4_2_714220070.exe
+C:\Users\Irgi Achmad Fauzi\Downloads\Rv\Revan\PemogramanII_PBO\Pertemuan04\Praktikum\P4_2_714220070\P4_2_714220070\bin\Debug\P4_2_714220070.pdb
+C:\Users\Irgi Achmad Fauzi\Downloads\Rv\Revan\PemogramanII_PBO\Pertemuan04\Praktikum\P4_2_714220070\P4_2_714220070\obj\Debug\P4_2_714220070.csproj.AssemblyReference.cache
+C:\Users\Irgi Achmad Fauzi\Downloads\Rv\Revan\PemogramanII_PBO\Pertemuan04\Praktikum\P4_2_714220070\P4_2_714220070\obj\Debug\P4_2_714220070.csproj.CoreCompileInputs.cache
+C:\Users\Irgi Achmad Fauzi\Downloads\Rv\Revan\PemogramanII_PBO\Pertemuan04\Praktikum\P4_2_714220070\P4_2_714220070\obj\Debug\P4_2_714220070.exe
+C:\Users\Irgi Achmad Fauzi\Downloads\Rv\Revan\PemogramanII_PBO\Pertemuan04\Praktikum\P4_2_714220070\P4_2_714220070\obj\Debug\P4_2_714220070.pdb
