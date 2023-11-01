@@ -1,0 +1,10 @@
+C:\Users\SEKOLAH VOKASI\Documents\714220070\PemogramanII_PBO\New folder\PemogramanII_PBO\Pertemuan06\Praktikum\P6_1_714220070\P6_1_714220070\bin\Debug\P6_1_714220070.exe.config
+C:\Users\SEKOLAH VOKASI\Documents\714220070\PemogramanII_PBO\New folder\PemogramanII_PBO\Pertemuan06\Praktikum\P6_1_714220070\P6_1_714220070\bin\Debug\P6_1_714220070.exe
+C:\Users\SEKOLAH VOKASI\Documents\714220070\PemogramanII_PBO\New folder\PemogramanII_PBO\Pertemuan06\Praktikum\P6_1_714220070\P6_1_714220070\bin\Debug\P6_1_714220070.pdb
+C:\Users\SEKOLAH VOKASI\Documents\714220070\PemogramanII_PBO\New folder\PemogramanII_PBO\Pertemuan06\Praktikum\P6_1_714220070\P6_1_714220070\obj\Debug\P6_1_714220070.csproj.AssemblyReference.cache
+C:\Users\SEKOLAH VOKASI\Documents\714220070\PemogramanII_PBO\New folder\PemogramanII_PBO\Pertemuan06\Praktikum\P6_1_714220070\P6_1_714220070\obj\Debug\P6_1_714220070.Form1.resources
+C:\Users\SEKOLAH VOKASI\Documents\714220070\PemogramanII_PBO\New folder\PemogramanII_PBO\Pertemuan06\Praktikum\P6_1_714220070\P6_1_714220070\obj\Debug\P6_1_714220070.Properties.Resources.resources
+C:\Users\SEKOLAH VOKASI\Documents\714220070\PemogramanII_PBO\New folder\PemogramanII_PBO\Pertemuan06\Praktikum\P6_1_714220070\P6_1_714220070\obj\Debug\P6_1_714220070.csproj.GenerateResource.cache
+C:\Users\SEKOLAH VOKASI\Documents\714220070\PemogramanII_PBO\New folder\PemogramanII_PBO\Pertemuan06\Praktikum\P6_1_714220070\P6_1_714220070\obj\Debug\P6_1_714220070.csproj.CoreCompileInputs.cache
+C:\Users\SEKOLAH VOKASI\Documents\714220070\PemogramanII_PBO\New folder\PemogramanII_PBO\Pertemuan06\Praktikum\P6_1_714220070\P6_1_714220070\obj\Debug\P6_1_714220070.exe
+C:\Users\SEKOLAH VOKASI\Documents\714220070\PemogramanII_PBO\New folder\PemogramanII_PBO\Pertemuan06\Praktikum\P6_1_714220070\P6_1_714220070\obj\Debug\P6_1_714220070.pdb
