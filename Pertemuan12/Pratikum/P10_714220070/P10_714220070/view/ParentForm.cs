@@ -35,5 +35,19 @@ namespace P10_714220070.view
             FormNilai.MdiParent = this;
             FormNilai.Show();
         }
+
+        private void dataMasterBarangToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormBarang Formmaster = new FormBarang();
+            Formmaster.MdiParent = this;
+            Formmaster.Show();
+        }
+
+        private void dataTransaksiToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormTransaksiBarang Formtransaksi = new FormTransaksiBarang();
+            Formtransaksi.MdiParent = this;
+            Formtransaksi.Show();
+        }
     }
 }
